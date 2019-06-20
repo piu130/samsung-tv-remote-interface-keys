@@ -1,21 +1,16 @@
 {
   "name": "samsung-tv-remote-interface-keys",
   "version": "0.2.0",
-  "description": "",
-  "main": "src/samsungTVKeys.js",
+  "description": "Keys to pass to Samsung Remote TV",
+  "main": "index.js",
   "scripts": {
-    "lint": "eslint src"
+    "lint": "standard",
+    "lint:fix": "standard --fix"
   },
   "repository": "piu130/samsung-tv-remote-interface-keys",
   "author": "Ramon Boss",
-  "license": "ISC",
-  "dependencies": {},
+  "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-node": "^4.2.2",
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1"
+    "standard": "^12.0.1"
   }
 }
