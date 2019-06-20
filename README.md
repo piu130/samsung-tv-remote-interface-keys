@@ -17,6 +17,8 @@ Use with
 
 ```js
 const keys = require('samsung-tv-remote-interface-keys')
+
+keys.KEY_POWERON // "KEY_POWERON"
 ```
 
 [dependencies-image]: https://david-dm.org/piu130/samsung-tv-remote-interface-keys/status.svg
