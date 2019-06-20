@@ -1,6 +1,6 @@
 {
   "name": "samsung-tv-remote-interface-keys",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Keys to pass to Samsung Remote TV",
   "main": "index.js",
   "scripts": {
